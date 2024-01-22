@@ -54,13 +54,6 @@ nav {
   opacity: 0.8;
   transition: 0.5s;
 }
-
-.btn-login {
-  padding: 12px 24px;
-  border-radius: 12px;
-  background-color: #f5f5f5;
-}
-
 /*hero*/
 
 .container {
